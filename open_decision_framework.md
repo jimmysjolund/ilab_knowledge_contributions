@@ -83,32 +83,30 @@ Communities form around a common purpose. They bring together diverse ideas and 
 Adapted from: https://opensource.com/open-source-way
 
 
-How open source principles lead to better decisions  
----------------------------------------------------
+## How open source principles lead to better decisions
 _page 5 of 15_ 
 
-<table>
-<tr>
-<td>Principles</td>
-<td>→</td>
-<td>Practices</td>
-<td>→</td>
-<td>Outcomes</td>
-</tr>
-<tr>
-<td>
-• Open exchange<br/> • Participation<br/> • Release early + often<br/> • Meritocracy<br/> • Community
-</td>
-<td>→<br/>→<br/>→</td>
-<td>
-• Transparency with internal customers and other stakeholders<br/> • Customer involvement<br/> • Gain feedback and adapt iterative changes<br/> • Ideation with customers<br/> • Build trust and respect via collaboration 
-</td>
-<td>→<br/>→<br/>→</td>
-<td>
-• Customer buy-in<br/> • Stronger and faster adoption<br/> • Best ideas win<br/> • Fewer bugs, issues, and unanticipated impacts<br/> • Higher associate engagement<br/> • Decisions aligned to strategy and culture
-</td>
-</tr>
-</table>
+### Principles
+- Open exchange
+- Participation
+- Release early & often
+- Meritocracy
+- Community
+
+### Practices
+- Transparency with internal customers and other stakeholders
+- Customer involvement
+- Gain feedback and adapt iterative changes
+- Ideation with customers
+- Build trust and respect via collaboration 
+
+### Outcomes
+- Customer buy-in
+- Stronger and faster adoption
+- Best ideas win
+- Fewer bugs, issues, and unanticipated impacts
+- Higher associate engagement
+- Decisions aligned to strategy and culture
 
 
 You can't please everyone.
