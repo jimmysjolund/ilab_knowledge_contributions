@@ -1,19 +1,16 @@
-Open Decision Framework
-=======================
+# Open Decision Framework
 Community Version 1.0.6
 
 Updated Aug 6, 2024
 
 The Open Decision Framework was created by the Red Hat People team and is maintained by The Open Organization, available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
 
-Notes
-=========
+# Notes
 
 * This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
 * Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
 
-Contents
-===========================================================================
+# Contents
 * [Overview](#overview)
   * [What is an open decision?](#what-is-an-open-decision)
   * [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
@@ -30,8 +27,8 @@ Contents
   * [Why the framework exists](#why-the-framework-exists)
 
 
-Overview
-===========================================================================
+# Overview
+
 _page 2 of 15_
 
 **What it is**
@@ -47,26 +44,20 @@ For decisions and projects that are likely to:
   - Build steps from the Open Decision Framework into your project plan or decision-making process
 
 
-What is an open decision?
--------------------------
+## What is an open decision?
 _page 3 of 15_
 
-<table>
-<tr>
-<td>Transparent</td>
-<td>Inclusive</td>
-<td>Customer-Centric</td>
-</tr>
-<tr>
-<td>Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.</td>
-<td>Engage others for feedback and collaborate throughout the decision-making process. Seek out diverse perspectives, including potential detractors.</td>
-<td>Think of people as customers with competing needs and priorities. When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.</td>
-</tr>
-</table>
+### Transparent
+ Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.
+
+### Inclusive
+Engage others for feedback and collaborate throughout the decision-making process. Seek out diverse perspectives, including potential detractors.
+
+### Customer-Centric
+Think of people as customers with competing needs and priorities. When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.
 
 
-Open decisions are made using open source principles 
------------------------------------------------------
+## Open decisions are made using open source principles 
 _page 4 of 15_ 
 
 **Open exchange**
