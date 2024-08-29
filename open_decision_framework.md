@@ -29,15 +29,15 @@ The Open Decision Framework was created by the Red Hat People team and is mainta
 
 # Overview
 
-**What it is**
+## What it is
 - A flexible, open approach to making business decisions and leading projects
 
-**When to use it**
+## When to use it
 For decisions and projects that are likely to:
 - impact our culture or
 - affect associates beyond your immediate team
 
-**How to use it**
+## How to use it
 - Build steps from the Open Decision Framework into your project plan or decision-making process
 
 
@@ -78,7 +78,7 @@ Adapted from: https://opensource.com/open-source-way
 ### Principles
 - Open exchange
 - Participation
-- Release early & often
+- Release early + often
 - Meritocracy
 - Community
 
@@ -114,12 +114,13 @@ Adapted from: https://opensource.com/open-source-way
 ## Phase or activity: Concept, Define, Ideate
 
 ### Steps you can take to be open
-**Lead with transparency**
+
+#### Lead with transparency
 - Publish a problem statement and possible approaches
 - Identify any aspects of the project or decision that cannot be open
 - Publish your ideation process
 
-**Build diversity of thought + an inclusive environment**
+#### Build diversity of thought + an inclusive environment
 - Engage internal customers and stakeholders early on, especially those who may disagree
 - Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)
 - Champion collaboration and provide channels for feedback
@@ -138,7 +139,7 @@ Adapted from: https://opensource.com/open-source-way
 - Confidentiality, privacy, and regulatory requirements
 - Potential to generate controversy
 - Impact on culture and future decisions
-- Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/)
+- Roles + responsibilities [OPT model:]( https://github.com/red-hat-people-team/opt-model/)
 - Where to publish
 
 ### Common flamewar triggers
@@ -153,56 +154,42 @@ There are a handful of issues that often generate controversy and upset within o
 If your project or decision involves any of these themes, take extra steps to make your process open, inclusive, and transparent.
 
 ## Phase or activity: Plan, Research 
-_page 8 of 15_
 
-<table>
-<tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
-</tr>
-<tr valign="top">
-<td rowspan=3 width=33%><strong>Engage customers + collaborators</strong><br/>
- • Gather input from internal customers and those who you will need help from (surveys, interviews, focus groups, etc.)<br/><br/>
- • Make it easy to participate + manage. Ask customers which collaboration tools they prefer to use. Have a plan for consolidating and publishing feedback.<br/><br/>
- • Remain open to new information and perspectives<Br/><br/>
- • Consider peer-to-peer feedback and communication options in addition to formal channels<br/><br/>
+### Steps you can take to be open
 
-<strong>Set expectations upfront</strong><Br/>
- • Be specific about what type(s) of feedback you're looking for + who is making the decision(s)<Br/><Br/>
- • Publish decision process and project plan, with roles, dates, constraints
-</td>
-<td rowspan=3 width=33%><strong>Explain the obvious</strong><Br/>
- • Publish the scope of the project or decision, and reiterate often<br/><br/>
- • Publish decision factors and their relative importance<Br/><Br/>
- • Publish your research, including difficult trade-offs, business requirements<br/><br/>
- • To the extent possible, publish any relevant legal, reporting, or confidentiality concerns<br/><br/>
+#### Engage customers + collaborators
+- Gather input from internal customers and those who you will need help from (surveys, interviews, focus groups, etc.)
+- Make it easy to participate + manage. Ask customers which collaboration tools they prefer to use. Have a plan for consolidating and publishing feedback.
+- Remain open to new information and perspectives
+- Consider peer-to-peer feedback and communication options in addition to formal channels
 
-<strong>Plan the transition</strong><br/><br/>
- • Develop and gather feedback on communication, change management, and adoption plans<br/><Br/>
- • Think through how you could respond to upset individuals (on memo-list and other channels)
-</td>
-<td>
- • How will we make decisions?<Br/><Br/>
- • What internal customers, stakeholders, and collaborators will we involve?<br/><br/>
- • How will we engage and communicate with them?<br/><br/>
- • What are the open source options?<br/><br/>
- • How might choosing a proprietary technology or format limit our choices in the future?<br/><br/>
- • How does this align with the company strategy and mission?<br/><br/>
- • Where might this conflict with your values and culture?
-</td>
-</tr>
-<tr>
-<td><strong>Key considerations</strong></td>
-</tr>
-<tr>
-<td>
- • Impact – who, how often, and unexpected<br/>
- • Where and how to collaborate<br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) 
-</td>
-</tr>
-</table>
+#### Set expectations upfront
+- Be specific about what type(s) of feedback you're looking for + who is making the decision(s)
+- Publish decision process and project plan, with roles, dates, constraints
 
+#### Explain the obvious
+- Publish the scope of the project or decision, and reiterate often
+- Publish decision factors and their relative importance
+- Publish your research, including difficult trade-offs, business requirements
+- To the extent possible, publish any relevant legal, reporting, or confidentiality concerns
+
+#### Plan the transition
+- Develop and gather feedback on communication, change management, and adoption plans
+- Think through how you could respond to upset individuals (on memo-list and other channels)
+
+### Questions to ask
+- How will we make decisions?
+- What internal customers, stakeholders, and collaborators will we involve?
+- How will we engage and communicate with them?
+- What are the open source options?
+- How might choosing a proprietary technology or format limit our choices in the future?
+- How does this align with the company strategy and mission?
+- Where might this conflict with your values and culture?
+
+#### Key considerations
+- Impact – who, how often, and unexpected
+- Where and how to collaborate
+- Roles + responsibilities [OPT model:](https://github.com/red-hat-people-team/opt-model/) 
 
 Phase or activity: Design, Develop, Test 
 ----------------------------
