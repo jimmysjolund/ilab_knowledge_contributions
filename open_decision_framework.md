@@ -1,6 +1,5 @@
 # Open Decision Framework
 Community Version 1.0.6
-
 Updated Aug 6, 2024
 
 The Open Decision Framework was created by the Red Hat People team and is maintained by The Open Organization, available under Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
