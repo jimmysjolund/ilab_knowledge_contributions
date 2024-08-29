@@ -10,23 +10,6 @@ The Open Decision Framework was created by the Red Hat People team and is mainta
 - This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
 - Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
 
-# Contents
-- [Overview](#overview)
-  - [What is an open decision?](#what-is-an-open-decision)
-  - [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
-  - [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
-  - [You can't please everyone](#you-cant-please-everyone)
-- [Open Decision Framework](#open-decision-framework-1)
-  - [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
-  - [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
-  - [Phase or activity: Design, Develop, Test](#phase-or-activity-design-develop-test)
-  - [Phase or activity: Launch, Deploy, Close](#phase-or-activity-launch-deploy-close)
-- [Resources](#resources)
-- [Appendix](#appendix)
-  - [History: Where the framework came from](#history-where-the-open-decision-framework-came-from)
-  - [Why the framework exists](#why-the-framework-exists)
-
-
 # Overview
 
 ## What it is
@@ -40,7 +23,6 @@ For decisions and projects that are likely to:
 ## How to use it
 - Build steps from the Open Decision Framework into your project plan or decision-making process
 
-
 ## What is an open decision?
 
 ### Transparent
@@ -51,7 +33,6 @@ Engage others for feedback and collaborate throughout the decision-making proces
 
 ### Customer-Centric
 Think of people as customers with competing needs and priorities. When a decision will help some customers, but disappoint others, manage relationships and expectations while getting stuff done.
-
 
 ## Open decisions are made using open source principles 
 
@@ -71,7 +52,6 @@ In a meritocracy, good ideas can come from anywhere, and the best ideas win. Eve
 Communities form around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
 
 Adapted from: https://opensource.com/open-source-way
-
 
 ## How open source principles lead to better decisions
 
@@ -191,148 +171,109 @@ If your project or decision involves any of these themes, take extra steps to ma
 - Where and how to collaborate
 - Roles + responsibilities [OPT model:](https://github.com/red-hat-people-team/opt-model/) 
 
-Phase or activity: Design, Develop, Test 
-----------------------------
-_page 9 of 15_ 
+## Phase or activity: Design, Develop, Test 
 
-<table>
-<tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
-</tr>
-<tr valign="top">
-<td rowspan=3 width=33%><strong>Build your community</strong><br/>
- • Ask departments who from their team can provide feedback<Br/><Br/>
- • Socialize decision with customers and stakeholders, especially those that may be more vocal about impacts<br/><br/>
- • Investigate options and accommodations for negatively impacted customers<Br/><Br/>
+### Steps you can take to be open
 
-<strong>Promote open exchange</strong><br/>
- • Evaluate, acknowledge, and incorporate feedback<br/><br/>
- • Highlight changes made in response to feedback<br/><br/>
- • If a suggestion isn't feasible, explain why<br/><br/>
- • Publish progress in an open place<br/><br/>
- • Provide regular updates to sponsors, customers, and stakeholders
-</td>
-<td rowspan=3 width=33%>
-<strong>Make it safe to voice concerns</strong><br/>
- • Invite project team and collaborators to raise risks and concerns you've overlooked.<br/><br/>
- • Ask: What might prevent this project from succeeding? What concerns will your team have? What are we missing?<br/><br/>
- • Publish risk and limitations uncovered along the way<br/><br/>
+#### Build your community
+- Ask departments who from their team can provide feedback
+- Socialize decision with customers and stakeholders, especially those that may be more vocal about impacts
+- Investigate options and accommodations for negatively impacted customers
 
-<strong>Conduct a premortem</strong><br/>
- • Pretend it's launch day, and people are surprised or upset. What triggered it?<br/><br/>
- • Identify changes you would make or points you might clarify in response, and make them proactively instead<br/><br/>
+#### Promote open exchange
+- Evaluate, acknowledge, and incorporate feedback
+- Highlight changes made in response to feedback
+- If a suggestion isn't feasible, explain why
+- Publish progress in an open place
+- Provide regular updates to sponsors, customers, and stakeholders
 
-<strong>Activate your ambassadors</strong><Br/>
- • Equip the community to help you clear up misinformation and misunderstandings
-</td>
-<td>
- • Can we pilot or release early to gather input?<br/><br/>
- • How will we test?<br/><Br/>
- • Which internal customers can help test?<br/><br/>
- • Does a cross-functional working group make sense?<br/><br/>
- • Can we build a community of passion around this project or decision?<br/><br/>
- • Have we engaged the people who will have to do the work?<br/><br/>
- • Who do we need more buy-in or support from?
-</td>
-</tr>
-<tr>
-<td><strong>Key considerations</strong></td>
-</tr>
-<tr>
-<td>
- • Representation of different types of customers<br/>
- • Unexpected impacts and use cases<br/>
- • Unspoken risks and concerns
-</td>
-</tr>
-</table>
+#### Make it safe to voice concerns
+- Invite project team and collaborators to raise risks and concerns you've overlooked.
+- Ask: What might prevent this project from succeeding? What concerns will your team have? What are we missing?
+- Publish risk and limitations uncovered along the way
 
+#### Conduct a premortem
+- Pretend it's launch day, and people are surprised or upset. What triggered it?
+- Identify changes you would make or points you might clarify in response, and make them proactively instead
 
-Phase or activity: Launch, Deploy, Close 
---------------
-_page 10 of 15_ 
+#### Activate your ambassadors
+- Equip the community to help you clear up misinformation and misunderstandings
 
-<table>
-<tr>
-<td colspan=2 width="66%"><strong>Steps you can take to be open</strong></td>
-<td><strong>Questions to ask</strong></td>
-</tr>
-<tr valign="top">
-<td rowspan=3 width=33%><strong>Begin with the end in mind</strong><br/>
- • Demonstrate alignment with strategy, mission, culture, and values<br/><br/>
- • Outline the steps you've taken to make this decision openly<br/><br/>
- • Highlight use of this framework<br/><br/>
- • Tell associates where to find detailed information<br/><br/>
- • Show how feedback shaped the decision or project<br/><br/>
- • Explain how to provide input after launch<br/><br/>
- • Acknowledge when you're not fully satisfied with the decision or know that others will not be<br/><br/>
- • Share your timeline or criteria for revisiting the decision<br/><br/>
- • Stay engaged with those who reject the decision
-</td>
-<td rowspan=3 width=33%>
-<strong>Default to open</strong><br/>
- • Reiterate relevant business requirements and constraints<br/><br/>
- • Share relevant legal, reporting, or confidentiality issues<br/><br/>
- • Communicate success criteria and publish relevant metrics<br/><br/>
+### Questions to ask
+- Can we pilot or release early to gather input?
+- How will we test?
+- Which internal customers can help test?
+- Does a cross-functional working group make sense?
+- Can we build a community of passion around this project or decision?
+- Have we engaged the people who will have to do the work?
+- Who do we need more buy-in or support from?
 
-<strong>Contribute upstream</strong><br/>
- • Publish your methods, lessons learned, communications, and decision criteria to the archive, so others can review past decisions, learn why a decision was made, and see how leaders have responded to similar issues in the past<br/><br/>
- • Offer guidance to others on open decision making and choosing collaboration tools
-</td>
-<td>
- • How will we monitor mailing lists and other feedback channels after the launch?<br/><br/>
- • If we have done early releases, will we continue to make incremental improvements based on feedback?<br/><br/>
- • How willing are we to make revisions based on feedback?<br/><br/>
- • What's a reasonable window of time for additional input and refinement?<br/><br/>
- • Did we overlook something important? How do we address it?<br/><br/>
- • Does the decision need to be revisited?<br/><br/>
- • Did open decision-making lead to the desired outcomes?<br/><br/>
- • How can we share our lessons learned and encourage open decision-making?
-</td>
-</tr>
-</table>
+#### Key considerations
+- Representation of different types of customers
+- Unexpected impacts and use cases
+- Unspoken risks and concerns
+
+## Phase or activity: Launch, Deploy, Close 
+
+### Steps you can take to be open
+
+#### Begin with the end in mind
+- Demonstrate alignment with strategy, mission, culture, and values
+- Outline the steps you've taken to make this decision openly
+- Highlight use of this framework
+- Tell associates where to find detailed information
+- Show how feedback shaped the decision or project
+- Explain how to provide input after launch
+- Acknowledge when you're not fully satisfied with the decision or know that others will not be
+- Share your timeline or criteria for revisiting the decision
+- Stay engaged with those who reject the decision
+
+#### Default to open
+- Reiterate relevant business requirements and constraints
+- Share relevant legal, reporting, or confidentiality issues
+- Communicate success criteria and publish relevant metrics
+
+#### Contribute upstream
+- Publish your methods, lessons learned, communications, and decision criteria to the archive, so others can review past decisions, learn why a decision was made, and see how leaders have responded to similar issues in the past
+- Offer guidance to others on open decision making and choosing collaboration tools
+
+### Questions to ask
+- How will we monitor mailing lists and other feedback channels after the launch?
+- If we have done early releases, will we continue to make incremental improvements based on feedback?
+- How willing are we to make revisions based on feedback?
+- What's a reasonable window of time for additional input and refinement?
+- Did we overlook something important? How do we address it?
+- Does the decision need to be revisited?
+- Did open decision-making lead to the desired outcomes?
+- How can we share our lessons learned and encourage open decision-making?
+
+# Resources 
+
+- [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier)—quick reference sheets on collaboration, transparency, trust, meritocracy, connection
+- [The Open Source Way guidebook](https://www.theopensourceway.org/)—a way of thinking about how people collaborate within a community to achieve common goals and interests
+- [The Open Organization](https://theopenorganization.org/)—a community-driven project leading a global conversation about the ways open principles change how people work, manage, and lead
+- [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/)—see grid in Máirín Duffy's "5 UX Tips for Developers"
+- [Opensource.com](http://www.opensource.com/)—A Red Hat-supported publication focused on how open source principles apply to business, education, government, and more
+- [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/)—by Daniel Tenner
+
+# Appendix 
+
+## History: Where the Open Decision Framework came from 
+
+- Based on principles practiced by open source communities
+  - Research by Duke University's Fuqua School of Business and Diana Martin (2009 – 2010); additional community resources
+- Developed by the People team, with contributions from cross-functional focus group
+  - Grew from People team Project Management Office's effort to create an open project management methodology (2012 – 2013)
+  - Google Calendar memo-list conversations served as a catalyst to share drafts with all associates and invite participation (2014)
+  - Tested by IT and Engineering, in the Google Calendar bridge working group (2014 – 2015)
+- Updated and maintained by [The Open Organization](https://github.com/open-organization/)
 
 
-Resources 
-===========================================================================
-_page 12 of 15_ 
-
-  - [Red Hat Multiplier](https://github.com/red-hat-people-team/red-hat-multiplier)—quick reference sheets on collaboration, transparency, trust, meritocracy, connection
-  - [The Open Source Way guidebook](https://www.theopensourceway.org/)—a way of thinking about how people collaborate within a community to achieve common goals and interests
-  - [The Open Organization](https://theopenorganization.org/)—a community-driven project leading a global conversation about the ways open principles change how people work, manage, and lead
-  - [Prioritizing by impact](http://developerblog.redhat.com/2014/08/27/5-ux-tips-for-developers/)—see grid in Máirín Duffy's "5 UX Tips for Developers"
-  - [Opensource.com](http://www.opensource.com/)—A Red Hat-supported publication focused on how open source principles apply to business, education, government, and more
-  - [The Advice Process](http://danieltenner.com/2014/11/06/the-advice-process-definition-and-usage-tips/)—by Daniel Tenner
-
-
-Appendix 
-===========================================================================
-
-History: Where the Open Decision Framework came from 
-----------------------------------------------------
-_page 14 of 15_ 
-
-  - Based on principles practiced by open source communities
-
-    - Research by Duke University's Fuqua School of Business and Diana Martin (2009 – 2010); additional community resources
-
-  - Developed by the People team, with contributions from cross-functional focus group
-
-    - Grew from People team Project Management Office's effort to create an open project management methodology (2012 – 2013)
-    - Google Calendar memo-list conversations served as a catalyst to share drafts with all associates and invite participation (2014)
-    - Tested by IT and Engineering, in the Google Calendar bridge working group (2014 – 2015)
-
-  - Updated and maintained by [The Open Organization](https://github.com/open-organization/)
-
-
-Why the framework exists 
-------------------------
-_page 15 of 15_ 
+## Why the framework exists 
 
 **A collection of proven practices that:**
 
-  - Drive better alignment between business decisions and our company strategy, goals, culture, values, and mission
-  - Demonstrate "what good looks like" in decision-making and communication
-  - Offer consistent guidance for teams and leaders on Red Hat cultural expectations, balancing transparency and confidentiality
-  - Improve associate engagement, signal-to-noise ratio on memo-list
+- Drive better alignment between business decisions and our company strategy, goals, culture, values, and mission
+- Demonstrate "what good looks like" in decision-making and communication
+- Offer consistent guidance for teams and leaders on Red Hat cultural expectations, balancing transparency and confidentiality
+- Improve associate engagement, signal-to-noise ratio on memo-list
