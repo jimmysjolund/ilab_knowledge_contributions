@@ -7,45 +7,41 @@ The Open Decision Framework was created by the Red Hat People team and is mainta
 
 # Notes
 
-* This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
-* Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
+- This markdown version of the slides is intended to facilitate easier collaboration and tracking of changes. 
+- Page numbering corresponds to the LibreOffice (.odp) and PDF files in the repo.
 
 # Contents
-* [Overview](#overview)
-  * [What is an open decision?](#what-is-an-open-decision)
-  * [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
-  * [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
-  * [You can't please everyone](#you-cant-please-everyone)
-* [Open Decision Framework](#open-decision-framework-1)
-  * [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
-  * [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
-  * [Phase or activity: Design, Develop, Test](#phase-or-activity-design-develop-test)
-  * [Phase or activity: Launch, Deploy, Close](#phase-or-activity-launch-deploy-close)
-* [Resources](#resources)
-* [Appendix](#appendix)
-  * [History: Where the framework came from](#history-where-the-open-decision-framework-came-from)
-  * [Why the framework exists](#why-the-framework-exists)
+- [Overview](#overview)
+  - [What is an open decision?](#what-is-an-open-decision)
+  - [Open decisions are made using open principles](#open-decisions-are-made-using-open-source-principles)
+  - [How open source principles lead to better decisions](#how-open-source-principles-lead-to-better-decisions)
+  - [You can't please everyone](#you-cant-please-everyone)
+- [Open Decision Framework](#open-decision-framework-1)
+  - [Phase or activity: Concept, Define, Ideate](#phase-or-activity-concept-define-ideate)
+  - [Phase or activity: Plan, Research](#phase-or-activity-plan-research)
+  - [Phase or activity: Design, Develop, Test](#phase-or-activity-design-develop-test)
+  - [Phase or activity: Launch, Deploy, Close](#phase-or-activity-launch-deploy-close)
+- [Resources](#resources)
+- [Appendix](#appendix)
+  - [History: Where the framework came from](#history-where-the-open-decision-framework-came-from)
+  - [Why the framework exists](#why-the-framework-exists)
 
 
 # Overview
 
-_page 2 of 15_
-
 **What it is**
-  - A flexible, open approach to making business decisions and leading projects
+- A flexible, open approach to making business decisions and leading projects
 
 **When to use it**
-
 For decisions and projects that are likely to:
-  - impact our culture or
-  - affect associates beyond your immediate team
+- impact our culture or
+- affect associates beyond your immediate team
 
 **How to use it**
-  - Build steps from the Open Decision Framework into your project plan or decision-making process
+- Build steps from the Open Decision Framework into your project plan or decision-making process
 
 
 ## What is an open decision?
-_page 3 of 15_
 
 ### Transparent
  Explain who is making the decision, what problems you're trying to solve, the requirements and constraints involved, and the process you will follow.
@@ -58,33 +54,26 @@ Think of people as customers with competing needs and priorities. When a decisio
 
 
 ## Open decisions are made using open source principles 
-_page 4 of 15_ 
 
-**Open exchange**
-
+### Open exchange
 Whether you're developing software or trying to solve a business problem, open exchange begins when you share your "source code" with others. A free exchange of ideas is critical to creating an environment where people can learn and use existing information to develop new ideas.
 
-**Participation**
-
+### Participation
 When we are free to collaborate, we create. We can solve problems that no one person may be able to solve on their own. And when we can implement open standards, we enable others to participate in the future.
 
-**Release early + often**
-
+### Release early + often
 Rapid prototypes can lead to rapid failures, and that leads to better solutions faster. When you're free to experiment, you can look at problems in new ways and look for answers in new places. You can learn by doing.
 
-**Meritocracy**
-
+### Meritocracy
 In a meritocracy, good ideas can come from anywhere, and the best ideas win. Everyone has access to the same information. Successful work determines which projects rise and gather support and effort from the community.
 
-**Community**
-
+### Community
 Communities form around a common purpose. They bring together diverse ideas and share work. Together, a global community can create beyond the capabilities of any one individual. It multiplies effort and shares the work. Together, we can do more.
 
 Adapted from: https://opensource.com/open-source-way
 
 
 ## How open source principles lead to better decisions
-_page 5 of 15_ 
 
 ### Principles
 - Open exchange
@@ -109,82 +98,61 @@ _page 5 of 15_
 - Decisions aligned to strategy and culture
 
 
-You can't please everyone.
-----------------------------------------------------
-**But when you make open decisions, people feel...**  _page 6 of 15_ 
+## You can't please everyone.
+**But when you make open decisions, people feel...**
 
-  - I understand why the decision was made and how it aligns with our strategy, goals, and mission.
-  - There was visibility to the business requirements, research, and evaluation criteria.
-  - The decision-making process was inclusive and transparent.
-  - Although I wasn't the decision-maker, I was able to contribute to the process.
-  - I may not agree with the decision, but it's clear that the decision-makers understand our values and culture.
-  - I might be disappointed, but I wasn't surprised.
-  - My voice was heard and valued.
+- I understand why the decision was made and how it aligns with our strategy, goals, and mission.
+- There was visibility to the business requirements, research, and evaluation criteria.
+- The decision-making process was inclusive and transparent.
+- Although I wasn't the decision-maker, I was able to contribute to the process.
+- I may not agree with the decision, but it's clear that the decision-makers understand our values and culture.
+- I might be disappointed, but I wasn't surprised.
+- My voice was heard and valued.
 
+# Open Decision Framework 
 
-Open Decision Framework 
-===========================================================================
+## Phase or activity: Concept, Define, Ideate
 
-Phase or activity: Concept, Define, Ideate 
----------------
-_page 7 of 15_ 
+### Steps you can take to be open
+**Lead with transparency**
+- Publish a problem statement and possible approaches
+- Identify any aspects of the project or decision that cannot be open
+- Publish your ideation process
 
-<table>
-<tr>
-<td width=34%><strong>Steps you can take to be open</strong></td>
-<td width=36%><strong>Questions to ask</strong></td>
-<td width=30%><strong>Common flamewar triggers</strong></td>
-</tr>
-<tr valign="top">
-<td rowspan=3>
-<strong>Lead with transparency</strong><br/>
- • Publish a problem statement and possible approaches<br/><br/>
- • Identify any aspects of the project or decision that cannot be open<br/><br/>
- • Publish your ideation process<br/><br/>
+**Build diversity of thought + an inclusive environment**
+- Engage internal customers and stakeholders early on, especially those who may disagree
+- Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)
+- Champion collaboration and provide channels for feedback
+- Address risks, limitations, and potential cultural impacts, especially with historically controversial issues
 
-<strong>Build diversity of thought + an inclusive environment</strong><br/>
- • Engage internal customers and stakeholders early on, especially those who may disagree<br/><br/>
- • Seek out diverse and underrepresented perspectives (geographies, ethnicity, departments, job levels, gender, age, etc.)<br/><br/>
- • Champion collaboration and provide channels for feedback<br/><br/>
- • Address risks, limitations, and potential cultural impacts, especially with historically controversial issues<br/><br/>
-</td>
-<td>
- • What is the potential impact on the organization? On the culture?<br/><br/>
- • Who do we need to include in planning?<br/><br/>
- • Whose problem are we trying to solve?<br/><Br/>
- • Who will we need or want help from?<br/><br/>
- • Who else could be impacted?<br/><br/>
- • Who has solved a similar problem?<br/><br/>
- • Who is likely to disagree, dissent, reject, or opt out? Who else may care?
-</td>
-<td rowspan=3>
-There are a handful of issues that often generate controversy and upset within organizations, including:<br/><br/>
- • Decisions, policies, or changes that impact associates, such as rewards and wellness programs<br/><br/>
- • Changes to associates' work environment<Br/><br/>
- • Implementation of proprietary technology<br/><br/>
- • Use of proprietary formats<Br/><br/>
- • Data privacy and sharing<br/><br/>
+### Questions to ask
+- What is the potential impact on the organization? On the culture?
+- Who do we need to include in planning?
+- Whose problem are we trying to solve?
+- Who will we need or want help from?
+- Who else could be impacted?
+- Who has solved a similar problem?
+- Who is likely to disagree, dissent, reject, or opt out? Who else may care?
+
+### Key considerations
+- Confidentiality, privacy, and regulatory requirements
+- Potential to generate controversy
+- Impact on culture and future decisions
+- Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/)
+- Where to publish
+
+### Common flamewar triggers
+There are a handful of issues that often generate controversy and upset within organizations, including:
+
+- Decisions, policies, or changes that impact associates, such as rewards and wellness programs
+- Changes to associates' work environment
+- Implementation of proprietary technology
+- Use of proprietary formats
+- Data privacy and sharing
 
 If your project or decision involves any of these themes, take extra steps to make your process open, inclusive, and transparent.
-</td>
-</tr>
-<tr>
-<td><strong>Key considerations</strong></td>
-</tr>
-<tr>
-<td>
- • Confidentiality, privacy, and regulatory requirements<br/><br/>
- • Potential to generate controversy<br/><br/>
- • Impact on culture and future decisions<br/><br/>
- • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) <br/><br/>
- • Where to publish
-</td>
-</tr>
-</table>
 
-
-Phase or activity: Plan, Research 
-----------------------
+## Phase or activity: Plan, Research 
 _page 8 of 15_
 
 <table>
